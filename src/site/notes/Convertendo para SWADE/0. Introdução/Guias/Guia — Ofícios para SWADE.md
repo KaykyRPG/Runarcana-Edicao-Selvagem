@@ -15,37 +15,35 @@ Os níveis dentro dos Ofícios, foram traduzidos como novas vantagens, onde quan
 > Como Pedro está no estágio Novato e apenas possui a Vantagem Cozinheiro Novato, ele apenas possui a formula de Ração de Campanha.
 > Então Pedro decide preparar a Ração de Campanha, ele usa sua Perícia de "Ofício: Cozinheiro" e para conseguir, precisa tirar o valor padrão do SWADE, 4.
 
-# Estrutura
+# Vantagens de Ofício
 
-### Nível Base: **Ofício (Iniciante)**
+## Ofício
 
-- Tipo: Vantagem
+- **Tipo**: Vantagem
     
-- Requisitos: Novato
+- **Requisitos**: Novato
     
-- Efeito:
-    - Concede **acesso à Perícia** específica do Ofício (ex: “Ofício (Armeiro)”).
+- **Efeito**:
+    - Concede **acesso à Perícia** específica do Ofício (ex: “Ofício Armeiro”).
         
-    - Permite realizar ações básicas (criar/reparar/identificar).
+    - Permite realizar ações baseadas em seu Ofício (criar/reparar/identificar).
         
     - Desbloqueia as **fórmulas básicas** (nível 1 do Runarcana).
         
 
 Exemplo:
 
-> **Ofício: Armeiro (Novato)**  
+> **Ofício: Armeiro (Aprendiz)**  
 > *Requisitos: Estágio: Novato* 
 > Benefício: Você aprende a criar e reparar armas simples. Recebe a Perícia **Ofício (Armeiro)** em d4. Desbloqueia o uso das Fórmulas Básicas de Armeiro para criar armas comuns.
 
----
+## Progressão de Vantagem do Ofício
 
-### Progressão: Ofício
-
-- Tipo: Vantagem
+- **Tipo**: Vantagem
     
-- Requisitos: estágio necessário e a vantagem de ofício anterior
+- **Requisitos**: estágio necessário e a vantagem de ofício anterior
     
-- Cada avanço:
+- **Cada avanço**:
     - Dá acesso a novas **fórmulas** (ou “receitas”).
         
     - Pode incluir novas capacidades (ex: reparar armas tecnológicas, trabalhar com materiais raros, etc).
@@ -53,19 +51,15 @@ Exemplo:
 
 Exemplo:
 
-> **Ofício: Armeiro (Experiente)**  
-> *Requisitos: Estágio: Experiente, Armeiro (Novato)* 
+> **Ofício: Armeiro Adepto (Experiente)** 
+> *Requisitos: Estágio: Experiente, Armeiro Aprendiz (Novato)*  
 > Benefício: Você domina técnicas intermediárias de forja. Desbloqueia as Fórmulas Avançadas de Armeiro.
 
-> **Ofício: Armeiro (Mestre)**  
-> *Requisitos: Estágio: Lendário, Armeiro (Heroico)* 
+> **Ofício: Armeiro Mestre (Lendário)**
+> *Requisitos: Estágio: Lendário, Armeiro Especialista (Heroico)* 
 > Benefício: Você atingiu a maestria. Pode criar e reparar armas lendárias sem penalidades e reduz pela metade o tempo necessário para criar equipamentos.
 
----
-
-### Ofícios com Subtipos
-
-Você também acertou em cheio:
+## Ofícios com Subtipos
 
 - O jogador escolhe **um subtipo** quando pega o Ofício Base.
     
@@ -92,8 +86,9 @@ Exemplo:
 > Benefício: Pode coletar amostras biológicas raras e preparar reagentes alquímicos. Recebe +2 em Ofício (Coletor) quando coleta matéria orgânica.
 
 ---
+# Perícias de Ofício
 
-### Progressão de Perícia separada
+### Progressão de Perícia
 
 A progressão de Ofício, é separada entre a Vantagem e Perícia:
 - O **nível de Ofício** define o *que você pode fazer*.
@@ -106,9 +101,7 @@ Ou seja:
     
 - **Aumentar o Ofício** = desbloquear novas opções (conteúdo narrativo e bônus).
 
----
-
-### E quanto aos níveis 1→6 do Runarcana?
+# E quanto aos níveis 1→6 do Runarcana?
 
 | Nível Runarcana |  Estágio   | Vantagem SWADE      |
 | :-------------: | :--------: | ------------------- |
@@ -122,15 +115,20 @@ Ou seja:
 
 ---
 # Fórmulas
+
+Fórmulas são receitas que você pode fabricar por conta de seu Ofício. Armeiro, pode criar armas, munição, equipamentos para suas armas, Cozinheiro é capaz de preparar alimentos e refeições saborosas e dentre outras. Cada nível de Ofício, libera novas fórmulas, algumas delas precisam que o jogador saiba mais de um Ofício para cria-las.
+
+Além de saber do Ofício para criar as fórmulas, você precisa ter consigo seu conjunto do Ofício que se obtém ao pegar o Ofício pela primeira vez ou comprando em um lojista. Elas também usam materiais para cria-los, armas sendo Peças de Armas, Alimentos sendo Ingredientes Culinários, Pedreiro sendo Materiais de Construção e em diante.
+
 Abaixo, um exemplo das informações contidas em uma fórmula, que trazem os requisitos necessários para que ela possa ser realizada:
 
 > **Nome da Fórmula**
 > *Pré-requisito*: Caso exista algum além do Ofício
 > 	- **Ofício**: O ofício ou ofícios necessários para realizar essa fórmula.
-> 	- **Tempo**: O tempo necessário para realizar a fórmula.
-> 	- **Componente**: O componente, ou componentes necessários para realizar a fórmula.
-> 	- **Valor**: O valor de mercado para executar a fórmula
-> 	- **Detalhe**: Detalhes adicionais ligados à fórmula, como as possibilidades de aplicação de veneno.
+> 	- **Parte (Armeiro)**: Caso seja armeiro, a parte da arma que será utilizada.
+> 	- **Penalidade**: O quanto de penalidade de rolagem terá para realizar a fórmula
+> 	- **Conjuntos**: Conjunto ou Conjuntos de Ofícios necessários para realizar a fórmula.
+> 	- **Componentes**: Peças, Ingredientes, Materiais utilizados para realizar a fórmula.
 > 
 > **Descrição geral** da fórmula com alguma informação sobre a mesma, podendo conter algum traço específico de história ou localização quando referente a algo que tenha essa informação.
 > 
@@ -157,9 +155,9 @@ Quando um 20 natural é obtido na rolagem da criação de um item, um efeito adi
 |4|Escolha um resultado entre 1 a 3|
 |Usada para itens gerais abaixo de 5 PO|   |
 
-| Armas - 1                           |                                                                                  |
+| Armas simples e marciais            |                                                                                  |
 | ----------------------------------- | -------------------------------------------------------------------------------- |
-| **d6**                                  | **Resultado**                                                                        |
+| **d6**                              | **Resultado**                                                                    |
 | 1                                   | Valor final +50% do valor de mercado                                             |
 | 2                                   | Escolha: Redução do tempo de execução em 50% ou Redução do valor de custo em 50% |
 | 3                                   | +1 de dano e acerto                                                              |
@@ -168,16 +166,16 @@ Quando um 20 natural é obtido na rolagem da criação de um item, um efeito adi
 | 6                                   | Role 2x                                                                          |
 | Usada para armas simples e marciais |                                                                                  |
 
-|Armas - II|   |
-|---|---|
-|**d6**|**Resultado**|
-|1|Valor final +50% do valor de mercado|
-|2|Escolha: Redução do tempo de execução em 50% ou Redução do valor de custo em 50%|
-|3|+1 de dano e acerto (não soma com magia)|
-|4|+1 na Categoria de Dano|
-|5|Escolha um resultado entre 1 a 4|
-|6|Role 2x|
-|Usada para armas à distância|   |
+| Armas à distância            |                                                                                  |
+| ---------------------------- | -------------------------------------------------------------------------------- |
+| **d6**                       | **Resultado**                                                                    |
+| 1                            | Valor final +50% do valor de mercado                                             |
+| 2                            | Escolha: Redução do tempo de execução em 50% ou Redução do valor de custo em 50% |
+| 3                            | +1 de dano e acerto (não soma com magia)                                         |
+| 4                            | +1 na Categoria de Dano                                                          |
+| 5                            | Escolha um resultado entre 1 a 4                                                 |
+| 6                            | Role 2x                                                                          |
+| Usada para armas à distância |                                                                                  |
 
 | Armaduras Gerais         |   |
 | ------------------------ | --------------------------------------------------------- |
@@ -188,18 +186,18 @@ Quando um 20 natural é obtido na rolagem da criação de um item, um efeito adi
 | 4                        |Escolha um resultado entre 1 a 3|
 | **Usada para armaduras** |   |
 
-| Armas de fogo- 1             |   |
+| Armas de fogo                |                                          |
 | ---------------------------- | ---------------------------------------- |
-| **d6**                       |**Resultado**|
-| 1                            |Redução de Erro e Força em 2|
-| 2                            |Aumento de 1 em Capacidade|
-| 3                            |Dano Aprimorado|
-| 4                            |+1 de dano e acerto (não soma com magia)|
-| 5                            |Aumento do Alcance em 15/30|
-| 6                            |Escolha: Gume 19 ou Gume x3|
-| 7                            |Escolha um resultado entre 1 a 6|
-| 8                            |Role 2x|
-| **Usada para armas de fogo** |   |
+| **d6**                       | **Resultado**                            |
+| 1                            | Redução de Erro e Força em 2             |
+| 2                            | Aumento de 1 em Capacidade               |
+| 3                            | Dano Aprimorado                          |
+| 4                            | +1 de dano e acerto (não soma com magia) |
+| 5                            | Aumento do Alcance em 15/30              |
+| 6                            | Escolha: Gume 19 ou Gume x3              |
+| 7                            | Escolha um resultado entre 1 a 6         |
+| 8                            | Role 2x                                  |
+| **Usada para armas de fogo** |                                          |
 
 | Munição                                       |                                     |
 | --------------------------------------------- | ----------------------------------- |
@@ -210,16 +208,16 @@ Quando um 20 natural é obtido na rolagem da criação de um item, um efeito adi
 | 4                                             | Escolha um resultado entre 1 a 3    |
 | **Usada para munições gerais abaixo de 5 PO** |                                     |
 
-| Armas Mágicas - 1                               |                                       |
+| Armas Mágicas                                   |                                       |
 | ----------------------------------------------- | ------------------------------------- |
-| **d4**                                              | **Resultado**                             |
+| **d4**                                          | **Resultado**                         |
 | 1                                               | Redução do tempo de execução em 20%   |
 | 2                                               | Redução do valor de custo em 10%      |
 | 3                                               | O dano da arma aumenta em 1 categoria |
 | 4                                               | Escolha um resultado entre 1 a 3      |
 | **Usada para armas simples e marciais mágicas** |                                       |
 
-| Armaduras Mágicas - 1    |                                             |
+| Armaduras Mágicas        |                                             |
 | ------------------------ | ------------------------------------------- |
 | **d4**                   | **Resultado**                               |
 | 1                        | Redução do tempo de execução em 20%         |

@@ -31,5 +31,6 @@ O jogador pode escolher durante a criação de seu personagem, mas fique atento,
 > **Template de Linhagens:** [[z_Templates/Linhagem - Template\|Linhagem - Template]]
 
 - [[Convertendo para SWADE/1. Ancestralidade/Linhagens/Linhagens - Antroplantae\|Linhagens - Antroplantae]] 
+- [[Convertendo para SWADE/1. Ancestralidade/Linhagens/Linhagens - Humano\|Linhagens - Humano]] 
 - [[Convertendo para SWADE/1. Ancestralidade/Linhagens/Linhagens - Troll\|Linhagens - Troll]] 
 - [[Convertendo para SWADE/1. Ancestralidade/Linhagens/Linhagens - Vastaya\|Linhagens - Vastaya]] 

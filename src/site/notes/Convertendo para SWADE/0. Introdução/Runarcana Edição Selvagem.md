@@ -10,6 +10,13 @@
 | *Este jogo faz referência ao sistema de regras Savage Worlds e Runarcana. Sendo Savage Worlds disponibilizado mundialmente pela Pinnacle Entertainment Group (www.peginc.com) e no Brasil pela RetroPunk Publicações (www.retropunk.net). O Runarcana sendo disponibilizado por Arddhu e sua Equipe do Runarcana ([wiki.runarcana.org](https://wiki.runarcana.org/)). O Savage Worlds e todas as suas logos e marcas associadas são de propriedade da Pinnacle Entertainment Group. Utilizadas com permissão. A Pinnacle e a RetroPunk não fazem nenhuma representação ou garantia quanto à qualidade, viabilidade ou adequação em relação a este produto.* |  ![SW_LOGO_FP_2018.png](/img/user/z_Assets/Images/SW_LOGO_FP_2018.png)   |
 
 ---
+
+# EM PROGRESSO!
+
+O Runarcana: Edição Selvagem está em progresso, não está tudo adaptado para todas os estágios, sendo a maior parte só adaptado até o estágio Novato. Recomendo olhar as tabelas no Index que estou separando as etapas de algumas categorias de adaptadas, caso queira entender se algo está adaptado ou não, se não conhecer SWADE, confira se a distancia está em quadros/metros, não possua salvaguardas *(swade é teste de atributo ou rolagem resistida)*, esteja de acordo com o guia de cada categoria.
+
+---
+
 # Introdução
 
 Já deixando claro que o **Runarcana: Edição Selvagem** é um projeto feito por fã, convertendo o sistema e mundo do **Runarcana** e **League of Legends** para o sistema de **Savage Worlds Adventure Edition (SWADE)**, tentando preservar o máximo da essência temática e mecânica do Runarcana, mas respeitando as regras e princípios de agilidade, modularidade e simplicidade do SWADE.

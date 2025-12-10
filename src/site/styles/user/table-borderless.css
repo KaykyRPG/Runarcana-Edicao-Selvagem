@@ -1,0 +1,9 @@
+/* borderless table CSS */
+.table-borderless {
+    --table-border-width: 0px;
+    --table-column-first-border-width: 0px;
+    --table-column-last-border-width: 0px;
+    --table-row-last-border-width: 0px;
+    --table-header-border-width: 0px;
+    --table-column-max-width: 600px;
+}

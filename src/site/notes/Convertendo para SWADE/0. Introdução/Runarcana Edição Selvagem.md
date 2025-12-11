@@ -1,5 +1,5 @@
 ---
-{"dg-home":"true","dg-publish":true,"cssclasses":null,"permalink":"/convertendo-para-swade/0-introducao/runarcana-edicao-selvagem/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convertendo-para-swade/0-introducao/runarcana-edicao-selvagem/","tags":["gardenEntry"]}
 ---
 
 
@@ -25,6 +25,7 @@ O **Runarcana: Edição Selvagem** é um projeto feito por fã e **não objetivo
 
 Para jogar **Runarcana: Edição Selvagem**, é necessário o livro de regras de **Savage Worlds: Edição Aventura** para ter acesso as regras bases e conseguir joga-lo normalmente. Caso queira o livro de regras do SWADE em português, compre na [Retropunk](https://loja.retropunk.com.br/), distribuidores oficiais dos livros do SWADE no Brasil.
 
+
 ---
 
 # Index
@@ -33,6 +34,7 @@ Para jogar **Runarcana: Edição Selvagem**, é necessário o livro de regras de
 
 |   **Tipo**   | Guia                                      | Progresso      |
 | :----------: | ----------------------------------------- | -------------- |
+|  **Começo**  | [[Convertendo para SWADE/0. Introdução/Guias/Guia — Criação de Personagem\|Guia — Criação de Personagem]]          | *Em progresso* |
 | **Origens**  | [[Convertendo para SWADE/0. Introdução/Guias/Guia — Origens e Linhagens para SWADE\|Guia — Origens e Linhagens para SWADE]] | *Completado*   |
 | **Classes**  | [[Convertendo para SWADE/0. Introdução/Guias/Guia — Classes para SWADE\|Guia — Classes para SWADE]]             | *Pendente*     |
 | **Ofícios**  | [[Convertendo para SWADE/0. Introdução/Guias/Guia — Ofícios para SWADE\|Guia — Ofícios para SWADE]]             | *Completado*   |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convertendo-para-swade/0-introducao/guias/guia-magia-para-swade/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convertendo-para-swade/0-introducao/guias/guia-magia-para-swade/"}
 ---
 
 
@@ -21,7 +21,7 @@ Se quiser os tópicos de forma resumida: [[#Resumão]]
 No Runarcana original, as Formas de Magia são: **Celestial, Elemental e Espiritual**.
 Aqui no SWADE para você utilizar certos tipos de magias, é necessário um Antecedente Arcano específico. Esse Antecedente Arcano, lhe concede a perícia especifica para lançar uma magia/poder.
 
-Em vez disso, existe **um único Antecedente Arcano universal**, usado para conjurar qualquer magia. Isso funciona como Atirar e Lutar no SWADE: uma perícia única que se aplica a diferentes estilos. Ter uma única perícia para conjurar **não significa** livre acesso a todas as magias. As Vantagens de Mistério ainda são o que limita, organiza e define o estilo do personagem.
+Em vez disso, existe **um único Antecedente Arcano universal**, usado para conjurar qualquer magia. Isso funciona como as perícias de **Atirar e Lutar** no SWADE: uma perícia única que se aplica a diferentes estilos. Ter uma única perícia para conjurar **não significa** livre acesso a todas as magias. As Vantagens de Mistério ainda são o que limita, organiza e define o estilo do personagem.
 
 Cada Fonte é acessada através de seus **Mistérios de Magia**, que aqui foram convertidos em **Vantagens**. Se você possui a Vantagem correspondente, você pode conjurar magias daquele Mistério.
 

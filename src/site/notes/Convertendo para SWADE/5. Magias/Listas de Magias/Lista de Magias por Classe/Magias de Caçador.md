@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convertendo-para-swade/5-magias/listas-de-magias/lista-de-magias-por-classe/magias-de-cacador/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convertendo-para-swade/5-magias/listas-de-magias/lista-de-magias-por-classe/magias-de-cacador/"}
 ---
 
 

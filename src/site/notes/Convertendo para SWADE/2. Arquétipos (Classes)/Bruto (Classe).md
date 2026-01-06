@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convertendo-para-swade/2-arquetipos-classes/bruto-classe/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convertendo-para-swade/2-arquetipos-classes/bruto-classe/"}
 ---
 
 
@@ -55,88 +55,88 @@ As **Vantagens abaixo são exclusivas** do arquétipo e representam sua evoluç�
 
 Escolha uma dentre as Vantagens abaixo:
 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Defesa sem Armadura\|Vantagens de Bruto#Defesa sem Armadura]] 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Maestria de Armas\|Vantagens de Bruto#Maestria de Armas]] 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Avanço Demolidor\|Vantagens de Bruto#Avanço Demolidor]] 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Vigor do Berserker\|Vantagens de Bruto#Vigor do Berserker]] 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Talhador de Runas I\|Vantagens de Bruto#Talhador de Runas I]] 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Fúria Rúnica\|Vantagens de Bruto#Fúria Rúnica]] 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Ataque Desarmado\|Vantagens de Bruto#Ataque Desarmado]] 
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Defesa sem Armadura\|Vantagens de Bruto#Defesa sem Armadura]] 
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Maestria de Armas\|Vantagens de Bruto#Maestria de Armas]] 
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Avanço Demolidor\|Vantagens de Bruto#Avanço Demolidor]] 
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Vigor do Berserker\|Vantagens de Bruto#Vigor do Berserker]] 
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Talhador de Runas I\|Vantagens de Bruto#Talhador de Runas I]] 
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Fúria Rúnica\|Vantagens de Bruto#Fúria Rúnica]] 
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Ataque Desarmado\|Vantagens de Bruto#Ataque Desarmado]] 
 
-> Confira todas as Vantagens em: [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto\|Vantagens de Bruto]] 
+> Confira todas as Vantagens em: [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto\|Vantagens de Bruto]] 
 
 ---
 
 ## Vantagens de Experiente
 Escolha dentre as Vantagens abaixo ou selecione uma anterior:
 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Ataque Descuidado\|Vantagens de Bruto#Ataque Descuidado]] 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Dominância Física\|Vantagens de Bruto#Dominância Física]] 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Sentido de Perigo\|Vantagens de Bruto#Sentido de Perigo]] 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Fúria Inconsciente\|Vantagens de Bruto#Fúria Inconsciente]] 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Escudo da Fúria\|Vantagens de Bruto#Escudo da Fúria]] 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Resiliência Rúnica\|Vantagens de Bruto#Resiliência Rúnica]] 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Entalhe Rúnico\|Vantagens de Bruto#Entalhe Rúnico]] 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Talhador de Runas II\|Vantagens de Bruto#Talhador de Runas II]] 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Bater Onde Dói\|Vantagens de Bruto#Bater Onde Dói]] 
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Ataque Descuidado\|Vantagens de Bruto#Ataque Descuidado]] 
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Dominância Física\|Vantagens de Bruto#Dominância Física]] 
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Sentido de Perigo\|Vantagens de Bruto#Sentido de Perigo]] 
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Fúria Inconsciente\|Vantagens de Bruto#Fúria Inconsciente]] 
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Escudo da Fúria\|Vantagens de Bruto#Escudo da Fúria]] 
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Resiliência Rúnica\|Vantagens de Bruto#Resiliência Rúnica]] 
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Entalhe Rúnico\|Vantagens de Bruto#Entalhe Rúnico]] 
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Talhador de Runas II\|Vantagens de Bruto#Talhador de Runas II]] 
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Bater Onde Dói\|Vantagens de Bruto#Bater Onde Dói]] 
 
-> Confira todas as Vantagens em: [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto\|Vantagens de Bruto]] 
+> Confira todas as Vantagens em: [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto\|Vantagens de Bruto]] 
 
 ---
 
 ## Vantagens de Veterano
 Escolha dentre as Vantagens abaixo ou selecione uma anterior:
 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Ataque Extra\|Vantagens de Bruto#Ataque Extra]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Crítico Brutal\|Vantagens de Bruto#Crítico Brutal]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Fúria Implacável\|Vantagens de Bruto#Fúria Implacável]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Retaliação\|Vantagens de Bruto#Retaliação]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Corte Profundo\|Vantagens de Bruto#Corte Profundo]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Frenesi\|Vantagens de Bruto#Frenesi]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Runa de Guerra\|Vantagens de Bruto#Runa de Guerra]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Resistência Rúnica\|Vantagens de Bruto#Resistência Rúnica]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Talhador de Runas III\|Vantagens de Bruto#Talhador de Runas III]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Soco Extra\|Vantagens de Bruto#Soco Extra]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Ataque Extra\|Vantagens de Bruto#Ataque Extra]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Crítico Brutal\|Vantagens de Bruto#Crítico Brutal]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Fúria Implacável\|Vantagens de Bruto#Fúria Implacável]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Retaliação\|Vantagens de Bruto#Retaliação]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Corte Profundo\|Vantagens de Bruto#Corte Profundo]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Frenesi\|Vantagens de Bruto#Frenesi]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Runa de Guerra\|Vantagens de Bruto#Runa de Guerra]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Resistência Rúnica\|Vantagens de Bruto#Resistência Rúnica]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Talhador de Runas III\|Vantagens de Bruto#Talhador de Runas III]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Soco Extra\|Vantagens de Bruto#Soco Extra]]
 
-> Confira todas as Vantagens em: [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto\|Vantagens de Bruto]] 
+> Confira todas as Vantagens em: [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto\|Vantagens de Bruto]] 
 
 ---
 
 ## Vantagens de Heroico
 Escolha dentre as Vantagens abaixo ou selecione uma anterior:
 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Instinto Selvagem\|Vantagens de Bruto#Instinto Selvagem]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Fúria Indomável\|Vantagens de Bruto#Fúria Indomável]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Força Indomável\|Vantagens de Bruto#Força Indomável]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Ataques Brutais\|Vantagens de Bruto#Ataques Brutais]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Resistência Plena\|Vantagens de Bruto#Resistência Plena]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Vantagem Numérica\|Vantagens de Bruto#Vantagem Numérica]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Runa de Sobrecarga\|Vantagens de Bruto#Runa de Sobrecarga]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Vigor Rúnico\|Vantagens de Bruto#Vigor Rúnico]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Talhador de Runas IV\|Vantagens de Bruto#Talhador de Runas IV]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Adrenalina Rúnica\|Vantagens de Bruto#Adrenalina Rúnica]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Desviar ou Revidar\|Vantagens de Bruto#Desviar ou Revidar]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Instinto Selvagem\|Vantagens de Bruto#Instinto Selvagem]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Fúria Indomável\|Vantagens de Bruto#Fúria Indomável]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Força Indomável\|Vantagens de Bruto#Força Indomável]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Ataques Brutais\|Vantagens de Bruto#Ataques Brutais]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Resistência Plena\|Vantagens de Bruto#Resistência Plena]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Vantagem Numérica\|Vantagens de Bruto#Vantagem Numérica]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Runa de Sobrecarga\|Vantagens de Bruto#Runa de Sobrecarga]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Vigor Rúnico\|Vantagens de Bruto#Vigor Rúnico]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Talhador de Runas IV\|Vantagens de Bruto#Talhador de Runas IV]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Adrenalina Rúnica\|Vantagens de Bruto#Adrenalina Rúnica]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Desviar ou Revidar\|Vantagens de Bruto#Desviar ou Revidar]]
 
-> Confira todas as Vantagens em: [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto\|Vantagens de Bruto]] 
+> Confira todas as Vantagens em: [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto\|Vantagens de Bruto]] 
 
 ---
 
 ## Vantagens de Lendário
 Escolha dentre as Vantagens abaixo ou selecione uma anterior:
 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Fúria Persistente\|Vantagens de Bruto#Fúria Persistente]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Imortal de Batalha\|Vantagens de Bruto#Imortal de Batalha]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Poder da Brutalidade\|Vantagens de Bruto#Poder da Brutalidade]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Mensageiro da Dor\|Vantagens de Bruto#Mensageiro da Dor]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Massacrar\|Vantagens de Bruto#Massacrar]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Armadura de Sangue\|Vantagens de Bruto#Armadura de Sangue]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Retomada Natural\|Vantagens de Bruto#Retomada Natural]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Volatilidade Rúnica\|Vantagens de Bruto#Volatilidade Rúnica]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Talhador de Runas V\|Vantagens de Bruto#Talhador de Runas V]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Marcha de Ataque\|Vantagens de Bruto#Marcha de Ataque]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto#Quebrador de Ossos\|Vantagens de Bruto#Quebrador de Ossos]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Fúria Persistente\|Vantagens de Bruto#Fúria Persistente]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Imortal de Batalha\|Vantagens de Bruto#Imortal de Batalha]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Poder da Brutalidade\|Vantagens de Bruto#Poder da Brutalidade]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Mensageiro da Dor\|Vantagens de Bruto#Mensageiro da Dor]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Massacrar\|Vantagens de Bruto#Massacrar]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Armadura de Sangue\|Vantagens de Bruto#Armadura de Sangue]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Retomada Natural\|Vantagens de Bruto#Retomada Natural]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Volatilidade Rúnica\|Vantagens de Bruto#Volatilidade Rúnica]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Talhador de Runas V\|Vantagens de Bruto#Talhador de Runas V]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Marcha de Ataque\|Vantagens de Bruto#Marcha de Ataque]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto#Quebrador de Ossos\|Vantagens de Bruto#Quebrador de Ossos]]
 
-> Confira todas as Vantagens em: [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Bruto\|Vantagens de Bruto]] 
+> Confira todas as Vantagens em: [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Bruto\|Vantagens de Bruto]] 
 
 ---
 # Magias de Bruto

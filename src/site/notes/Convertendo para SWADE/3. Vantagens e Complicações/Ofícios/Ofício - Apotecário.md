@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convertendo-para-swade/3-vantagens-e-complicacoes/oficios/oficio-apotecario/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convertendo-para-swade/3-vantagens-e-complicacoes/oficios/oficio-apotecario/"}
 ---
 
 
@@ -23,9 +23,9 @@ Este Conjunto contém uma variedade de instrumentos como tesouras, almofariz e p
 ### Antídoto Base
 
 **Ofício**: Apotecário Aprendiz
-**Penalidade**: *  
+**Penalidade**: (x)
 **Conjuntos**: Conjunto de Apotecário  
-**Ingredientes**: *
+**Componentes**: (x) Ingredientes
 **Ação**: Ingestão
 
 Cada veneno possui seu antídoto base, para criar um antídoto é necessário conhecer o veneno que está agindo (bem como sua fórmula) ou ter acesso a uma amostra do mesmo. Uma vez que isso tenha sido obtido, o processo de criação do antídoto pode ser iniciado.
@@ -39,7 +39,7 @@ A jogada para criar um antídoto é baseada no veneno alvo utilizando a mesma Pe
 **Ofício**: Apotecário Aprendiz
 **Penalidade**: 0
 **Conjuntos**: Ervas e Conjunto de Ofício  
-**Ingredientes**: 50
+**Componentes**: 50 Ingredientes
 **Ação**: Ingestão
 
 Através de uma infusão preparada de ervas e raízes, esse líquido vermelho se torna capaz de recuperar rapidamente o dano causado ao corpo de um aventureiro.
@@ -55,7 +55,7 @@ _Ingestão, Ferimento_
 **Ofício**: Apotecário Aprendiz
 **Penalidade**: 0
 **Conjuntos**: Conjunto de Ofício  
-**Ingredientes**: 6 
+**Componentes**: 6 Ingredientes
 **Tempo**: 1 hora 
 **Ação**: Ingestão ou por Ferimento
 

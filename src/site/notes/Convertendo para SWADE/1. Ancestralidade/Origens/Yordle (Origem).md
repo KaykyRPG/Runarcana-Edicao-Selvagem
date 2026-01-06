@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convertendo-para-swade/1-ancestralidade/origens/yordle-origem/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convertendo-para-swade/1-ancestralidade/origens/yordle-origem/"}
 ---
 
 

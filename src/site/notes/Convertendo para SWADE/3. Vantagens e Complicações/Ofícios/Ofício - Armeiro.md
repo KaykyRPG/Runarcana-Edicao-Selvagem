@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convertendo-para-swade/3-vantagens-e-complicacoes/oficios/oficio-armeiro/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convertendo-para-swade/3-vantagens-e-complicacoes/oficios/oficio-armeiro/"}
 ---
 
 
@@ -57,11 +57,11 @@ O armeiro deve fazer uma jogada de ofício com Penalidade (definida pelo mestre)
 
 ### Aumento de Capacidade
 
-**Ofício**: Armeiro Novato 
+**Ofício**: Armeiro Aprendiz 
 **Parte**: Cano 
 **Penalidade**: 0 
 **Conjuntos**: Conjunto de Armeiro
-**Peças de Arma**: 25 
+**Componentes**: 25 Peças de Arma
 
 Para cada aplicação dessa fórmula, você pode aumentar a capacidade de munição de uma arma que você saiba criar.
 
@@ -77,11 +77,11 @@ Você aumenta a Capacidade de Munição da arma em +1, até o máximo permitido 
 
 ### Cano de Escape
 
-**Ofício**: Armeiro Novato 
+**Ofício**: Armeiro Aprendiz 
 **Parte**: Cano
 **Penalidade**: 0  
 **Conjuntos**: Conjunto de Armeiro  
-**Peças de Arma**: 10
+**Componentes**: 10 Peças de Armas
 
 O cano possui pontos de exaustão estrategicamente posicionados, permitindo que a a arma dissipe melhor os vapores de sua explosão. A margem de Erro da arma diminuem em 1, recebendo **Atirar +1**.
 
@@ -90,11 +90,11 @@ O cano possui pontos de exaustão estrategicamente posicionados, permitindo que 
 ### Cano Serrado
 *Criar Armas de Fogo I - VI*
 
-**Ofício**: Armeiro Novato a Lendário
+**Ofício**: Armeiro Aprendiz a Mestre
 **Parte**: Cano
 **Penalidade**: 0, -2, -4 ou definido pelo mestre
 **Conjuntos**: Arma de Fogo Média e Conjunto de Armeiro  
-**Peças de Arma**: 15, 35, 60, 120, 200, 300
+**Componentes**: 15, 35, 60, 120, 200, 300 Peças de Arma
 
 Essa fórmula aumenta a potência de uma arma de fogo média ao custo de precisão: A arma recebe **+2 em Dano** e seu alcance diminuído em **-1 quadro** (-2m).
 
@@ -102,10 +102,10 @@ Essa fórmula aumenta a potência de uma arma de fogo média ao custo de precis�
 
 ### Criar Armas de Fogo I - VI
 
-**Ofício**: Armeiro Novato a Lendário
+**Ofício**: Armeiro Aprendiz a Mestre
 **Penalidade**: 0, -2, -4
 **Conjuntos**: Conjunto de Armeiro  
-**Peças de Arma**: 25, 50, 75, 100, 125, 150
+**Componentes**: 25, 50, 75, 100, 125, 150 Peças de Arma
 
 Cada vez que você escolhe essa fórmula, você é capaz de criar uma arma de fogo (você deve atender ao pré-requisito de cada arma que está entre parênteses), escolha entre:
 
@@ -128,10 +128,10 @@ O custo de criação de uma arma de fogo define o tempo necessário para criá-l
 ### Criar Baioneta 1
 *Pré-requisito: Criar Arma de Fogo 1 - Arma base, Criar Arma 1 - Lâmina base*
 
-**Ofício**: Armeiro Novato
+**Ofício**: Armeiro Aprendiz
 **Penalidade**: 0 
 **Conjuntos**: Conjunto de Armeiro 
-**Peças de Arma**: 50
+**Componentes**: 50 Peças de Arma
 
 Cada vez que você escolhe essa fórmula, você é capaz de criar uma baioneta, escolha entre: Pistola Faca, Mosquete Espada, Canhão Machado.
 
@@ -141,10 +141,10 @@ O custo de criação de uma baioneta define o tempo necessário para criá-la. A
 
 ### Criar Munição
 
-**Ofício**: Armeiro Novato
+**Ofício**: Armeiro Aprendiz
 **Penalidade**: 0
 **Conjuntos**: Conjunto de Armeiro  
-**Peças de Arma**: 5
+**Componentes**: 5 Peças de Arma
 
 Cada vez que você escolhe essa fórmula, você é capaz de criar um grupo de munição, escolha entre:
 
@@ -162,11 +162,11 @@ Cada 4 horas de criação de munição custam 5 Peças de Arma e geram uma quant
 
 ### Liga Leve
 
-**Ofício**: Armeiro Novato + Alquimista Novato  
+**Ofício**: Armeiro Aprendiz + Alquimista Aprendiz  
 **Parte**: Liga
 **Penalidade**: 0
 **Conjuntos**: Conjunto de Armeiro e Conjunto de Alquimista
-**Peças de Arma**: 10 
+**Componentes**: 10 Peças de Arma
 
 Através de um processo de troca alquímica, pontos específicos da arma são substituídos por material mais leve. Transforma uma arma Pesada em Leve, podendo utilizar com apenas uma mão.
 
@@ -174,11 +174,11 @@ Através de um processo de troca alquímica, pontos específicos da arma são su
 
 ### Liga Não Porosa
 
-**Ofício**: Armeiro Novato + Alquimista Novato  
+**Ofício**: Armeiro Aprendiz + Alquimista Aprendiz  
 **Parte**: Liga  
 **Penalidade**: 0
 **Conjuntos**: Conjunto de Armeiro e Conjunto de Alquimista
-**Peças de Arma**: 25 
+**Componentes**: 25 Peças de Arma
 
 Através de um processo de selamento, tanto arma quanto munição carregada não são afetadas por umidade ou submersão. Você pode usar a arma para fazer ataques submersos normalmente até o alcance normal da arma.
 
@@ -186,11 +186,11 @@ Através de um processo de selamento, tanto arma quanto munição carregada não
 
 ### Liga Silenciadora
 
-**Ofício**: Armeiro Novato
+**Ofício**: Armeiro Aprendiz
 **Parte**: Liga - Leve, Média, Longa
 **Penalidade**: 0
 **Conjuntos**: Conjunto de Armeiro  
-**Peças de Arma**: 15 
+**Componentes**: 15 Peças de Arma
 
 O processo é feito no conjunto da arma, com foco no cano da mesma, fazendo com que a através de um sistema mais eficiente de exaustão, o barulho da arma seja silenciado. Essa arma recebe a propriedade Silenciada, mas recebe **-1 em Dano**.
 
@@ -198,11 +198,11 @@ O processo é feito no conjunto da arma, com foco no cano da mesma, fazendo com 
 
 ### Precisão
 
-**Ofício**: Armeiro Novato a Lendário  
+**Ofício**: Armeiro Aprendiz a Mestre  
 **Parte**: Cano  
 **Penalidade**: 0, -2, -4 ou definido pelo mestre
 **Conjuntos**: Arma de Fogo Longa e Conjunto de Armeiro  
-**Peças de Arma**: 50, 100, 250, 500, 750, 1000 
+**Componentes**: 50, 100, 250, 500, 750, 1000 Peças de Arma
 
 Essa fórmula aumenta a precisão de uma arma de fogo longa ao custo de dano: A arma recebe **+2 em Atirar**, mas recebe **-1 em Dano**.
 
@@ -210,11 +210,11 @@ Essa fórmula aumenta a precisão de uma arma de fogo longa ao custo de dano: A 
 
 ### Tambor de Memória
 
-**Ofício**: Armeiro Novato + Encantador Novato  
+**Ofício**: Armeiro Aprendiz + Encantador Aprendiz  
 **Parte**: Recarga
 **Penalidade**: 0
 **Conjuntos**: Conjunto de Armeiro e Conjunto de Encantador
-**Peças de Arma**: 25
+**Componentes**: 25 Peças de Arma
 
 Através de um processo de ressonância, essa arma pode ser recarregada automaticamente quando grandes danos são causados a um alvo. Ao acertar um alvo com ampliação, a arma utilizada é automaticamente recarregada utilizando munição que você carregue consigo.
 

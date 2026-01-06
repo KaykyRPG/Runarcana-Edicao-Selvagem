@@ -1,21 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/convertendo-para-swade/0-introducao/guias/guia-oficios-para-swade/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convertendo-para-swade/0-introducao/guias/guia-oficios-para-swade/"}
 ---
 
 
 ![Ofício - Image.png](/img/user/z_Assets/Images/Origens/Of%C3%ADcio%20-%20Image.png)
-O ofício do Runarcana para o SWADE é traduzida como Vantagens, onde o jogador ao criar o personagem, caso sua raça, classe ou caso o jogador queira gastar seu ponto de Vantagem em pegar um Ofício, será possível.
+O ofício do Runarcana para o SWADE é traduzida como Vantagens, onde o jogador ao criar o personagem, caso sua raça, classe ou caso o jogador queira gastar seu ponto de Vantagem em pegar um Ofício, será possível. O Ofício sendo uma Vantagem, concede sua perícia de execução, onde para o jogador conseguir executar sua tarefa, precisa utiliza-la.
 
-O Ofício sendo uma Vantagem, concede sua perícia de execução, onde para o jogador conseguir executar sua tarefa, precisa utiliza-la.
+## Níveis de Ofício de Ofício
 
-Os níveis dentro dos Ofícios, foram traduzidos como novas vantagens, onde quando o jogador obter um progresso e for capaz de escolher uma nova vantagem, ele pode escolher pegar um novo nível de Ofício, se atender aos requisitos necessários.
+Os níveis dentro dos Ofícios, foram traduzidos como novas vantagens. Quando o jogador obtiver um progresso e for capaz de escolher uma nova vantagem, ele poderá escolher pegar um novo nível de Ofício, se atender aos requisitos necessários.
 
 *Exemplo:* 
 > O Pedro escolheu o Ofício "Cozinheiro". Dentro de sua ficha, é adicionada o "Ofício Cozinheiro Novato" e recebe junto a isso a perícia "Oficio: Cozinheiro".
-> Como Pedro está no estágio Novato e apenas possui a Vantagem Cozinheiro Novato, ele apenas possui a formula de Ração de Campanha.
+> Como Pedro está no estágio Novato e apenas possui a Vantagem Cozinheiro Aprendiz, e possui apenas a formula de Ração de Campanha.
 > Então Pedro decide preparar a Ração de Campanha, ele usa sua Perícia de "Ofício: Cozinheiro" e para conseguir, precisa tirar o valor padrão do SWADE, 4.
-
-# Vantagens de Ofício
 
 ## Ofício
 
@@ -116,7 +114,7 @@ Ou seja:
 ---
 # Fórmulas
 
-Fórmulas são receitas que você pode fabricar por conta de seu Ofício. Armeiro, pode criar armas, munição, equipamentos para suas armas, Cozinheiro é capaz de preparar alimentos e refeições saborosas e dentre outras. Cada nível de Ofício, libera novas fórmulas, algumas delas precisam que o jogador saiba mais de um Ofício para cria-las.
+Fórmulas são receitas que você pode fabricar por conta de seu Ofício. Armeiro, pode criar armas, munição, equipamentos para suas armas, Cozinheiro é capaz de preparar alimentos e refeições saborosas e dentre outras. Cada vantagem de Ofício, libera novas fórmulas, algumas delas precisam que o jogador saiba mais de um Ofício para cria-las.
 
 Além de saber do Ofício para criar as fórmulas, você precisa ter consigo seu conjunto do Ofício que se obtém ao pegar o Ofício pela primeira vez ou comprando em um lojista. Elas também usam materiais para cria-los, armas sendo Peças de Armas, Alimentos sendo Ingredientes Culinários, Pedreiro sendo Materiais de Construção e em diante.
 

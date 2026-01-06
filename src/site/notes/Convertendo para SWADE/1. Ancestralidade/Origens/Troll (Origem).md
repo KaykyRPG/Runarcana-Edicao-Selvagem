@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convertendo-para-swade/1-ancestralidade/origens/troll-origem/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convertendo-para-swade/1-ancestralidade/origens/troll-origem/"}
 ---
 
 
@@ -10,8 +10,6 @@
 ### Traços de Origem dos Trolls
 
 **Herança**: Você pode escolher uma **Herança de Origem (Vantagem)**, você recebe uma nova **Vantagem de Herança de Origem (Vantagem)** nos estágios Novato, Experiente, Veterano, Heroico e Lendário.
-
-**Tamanho**: 
 
 **Passado**: Escolha um Passado.
 
@@ -27,7 +25,7 @@
 ### Habilidade Raciais
 
 #### Habilidades Positivas:
-- **FORTE E RESISTÊNTE:** Trolls começam com um d6 em Força e Vigor. Isso aumenta o máximo de sua Força e Vigor para d12+1.
+- **FORÇA:** Trolls começam com um d6 em Força. Isso aumenta o máximo de sua Força para d12+1.
     
 - **TAMANHO +1:** atingindo o tamanho geral de 2,40 metros de altura, trolls se elevam sobre as outras espécies. Sua Resistência é aumentada em 1, e sua Força máxima é aumentada em mais um passo, para um máximo de d12 + 2.
     
@@ -38,7 +36,7 @@
     
 - **SIMPLÓRIO:** Trolls são alvo de muitas piadas racistas. Trolls em geral não são estúpidos, mas muitos tendem a levar um tempo para entender conceitos. Trolls sofrem uma penalidade de -1 em todas as rolagens de Astúcia.
     
-- **DESEDUCADO:** é difícil Trolls conseguirem educação formal. Eles não começam com um d4 em Conhecimento Geral.
+- **DESEDUCADO:** É difícil Trolls conseguirem educação formal. Eles não começam com a perícia base em Conhecimento Geral.
 
 ## Informações...
 

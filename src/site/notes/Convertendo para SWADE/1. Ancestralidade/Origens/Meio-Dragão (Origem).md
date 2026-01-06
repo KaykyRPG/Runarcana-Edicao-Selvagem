@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convertendo-para-swade/1-ancestralidade/origens/meio-dragao-origem/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convertendo-para-swade/1-ancestralidade/origens/meio-dragao-origem/"}
 ---
 
 
@@ -46,7 +46,7 @@
 ## Linhagens
 **Linhagens**. Você deve escolher um entre as Essências Dracônicas a seguir:
 - **Essências Dracônicas** 
-	- Elemental Glacial
+	- [[Convertendo para SWADE/1. Ancestralidade/Linhagens/Linhagens - Meio-Dragão#— Elemental Glacial\|Linhagens - Meio-Dragão#— Elemental Glacial]]
 	- Elemental Infernal
 	- Elemental da Montanha
 	- Elemental das Nuvens

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convertendo-para-swade/3-vantagens-e-complicacoes/passados/passado-investigador/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convertendo-para-swade/3-vantagens-e-complicacoes/passados/passado-investigador/"}
 ---
 
 
@@ -20,7 +20,7 @@ Caso você não saiba em que área você atua, você pode utilizar a tabela abai
 
 ---
 
-**Perícias**: Investigação
+**Perícias**: Investigar
 
 **Idiomas**: Um idioma comum à sua escolha
 

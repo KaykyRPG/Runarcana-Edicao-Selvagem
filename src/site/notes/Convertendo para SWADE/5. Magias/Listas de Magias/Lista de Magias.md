@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convertendo-para-swade/5-magias/listas-de-magias/lista-de-magias/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convertendo-para-swade/5-magias/listas-de-magias/lista-de-magias/"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 ### — Bordão Místico
 
-**Arcano:** (Antecedente Arcano)
+**Arcano:** Elemental (flora) ou Espiritual (transmutação)
 **PP:** 0
 **Ação:** 1 Ação
 **Alcance:**  Toque
@@ -17,7 +17,7 @@
 **Tipo:** Buff / Combate
 
 **Efeito:**  
-Conjura magia sobre um bordão ou clava, aumentando em **1 dado o dano** da arma.
+Conjura magia sobre um bordão ou clava, adiciona **1d4 de dano adicional** da arma.
 
 ### — Borrifo Ácido
 
@@ -116,15 +116,15 @@ Sussurrando aos espíritos da natureza, você cria um dos efeitos a seguir no al
 
 ### — Golpe Certeiro
 
-**Arcano:** Espiritual
+**Arcano:** Espiritual (adivinhação)
 **PP:** 0
 **Ação:** 1 Ação
-**Alcance:** Pessoal
+**Alcance:** 6 quadros (40m)
 **Duração:**  1 rodada
 **Tipo:** Buff / Combate
 
 **Efeito:**  
-Você estende sua mão e aponta o dedo para um alvo no alcance da magia. Seu próximo ataque à distância nesta rodada ganha **+1** no teste de Ataque.
+Você estende sua mão e aponta o dedo para um alvo no alcance da magia. Seu *próximo ataque à distância* nesta rodada ganha **+1 no teste de Ataque**.
 
 ### — Luz
 
@@ -142,7 +142,7 @@ Se você conjura-la em um objeto sendo carregado ou usado por uma criatura hosti
 
 ### — Luzes Dançantes
 
-**Arcano:** Elemental
+**Arcano:** Elemental (luz)
 **PP:** 0
 **Ação:** 1 Ação
 **Alcance:** 24 quadros
@@ -553,3 +553,5 @@ Texto enxuto e direto, com mecânica baseada no SWADE.
 Texto enxuto e direto, com mecânica baseada no SWADE.
 
 ## Magias Veterano
+## Magias Heroico
+## Magias Lendário

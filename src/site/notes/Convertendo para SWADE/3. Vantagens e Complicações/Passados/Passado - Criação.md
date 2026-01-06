@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convertendo-para-swade/3-vantagens-e-complicacoes/passados/passado-criacao/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convertendo-para-swade/3-vantagens-e-complicacoes/passados/passado-criacao/"}
 ---
 
 

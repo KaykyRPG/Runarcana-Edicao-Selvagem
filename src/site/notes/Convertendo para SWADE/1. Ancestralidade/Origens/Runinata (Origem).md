@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convertendo-para-swade/1-ancestralidade/origens/runinata-origem/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convertendo-para-swade/1-ancestralidade/origens/runinata-origem/"}
 ---
 
 
@@ -21,7 +21,7 @@
 Traços Runinata, não são diferentes das Habilidade Raciais. Somente que a **Tabela de Positivas e Negativas são diferentes**, o jogador pode **escolher durante a criação do seu Runinata**, seguindo as mesmas regras das Habilidades Ancestrais do SWADE, saiba mais em [[Regras do SWADE/Criação de Raças (SWADE)\|Criação de Raças (SWADE)]].
 
 Veja a Galeria de Traços para escolher:
-[[#Galeria de Traços]]
+[[#Galeria de Traços (Revisar)]]
 
 #### Traços Positivas: 
 - ...

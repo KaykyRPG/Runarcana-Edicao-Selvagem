@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convertendo-para-swade/2-arquetipos-classes/atirador-classe/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convertendo-para-swade/2-arquetipos-classes/atirador-classe/"}
 ---
 
 
@@ -15,7 +15,7 @@
 ### Bônus da Classe
 - **Ofício**: Ofício de Armeiro
 
-- **Perícias**: Começa a perícia **Atirar**.
+- **Perícias**: Recebe a perícia **Atirar**.
 
 ### Equipamentos
 
@@ -47,86 +47,86 @@ As **Vantagens abaixo são exclusivas** do arquétipo e representam sua evoluç�
 
 Escolha uma dentre as Vantagens abaixo:
 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Armeiro\|Vantagens de Atirador#Armeiro]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Astra\|Vantagens de Atirador#Astra]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Ardil Bravata\|Vantagens de Atirador#Ardil Bravata]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Estilo Atrnach Abusado\|Vantagens de Atirador#Estilo Atrnach Abusado]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Estilo Atrnach Corajoso\|Vantagens de Atirador#Estilo Atrnach Corajoso]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Estilo Desperado\|Vantagens de Atirador#Estilo Desperado]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Estilo Vanator\|Vantagens de Atirador#Estilo Vanator]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Cobertura Elevada\|Vantagens de Atirador#Cobertura Elevada]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Armeiro\|Vantagens de Atirador#Armeiro]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Astra\|Vantagens de Atirador#Astra]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Ardil Bravata\|Vantagens de Atirador#Ardil Bravata]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Estilo Atrnach Abusado\|Vantagens de Atirador#Estilo Atrnach Abusado]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Estilo Atrnach Corajoso\|Vantagens de Atirador#Estilo Atrnach Corajoso]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Estilo Desperado\|Vantagens de Atirador#Estilo Desperado]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Estilo Vanator\|Vantagens de Atirador#Estilo Vanator]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Cobertura Elevada\|Vantagens de Atirador#Cobertura Elevada]]
 
-> Confira todas as Vantagens em: [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador\|Vantagens de Atirador]] 
+> Confira todas as Vantagens em: [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador\|Vantagens de Atirador]] 
 
 ---
 
 ## Vantagens de Experiente
 Escolha dentre as Vantagens abaixo ou selecione uma anterior:
 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Maestria de Armas\|Vantagens de Atirador#Maestria de Armas]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Armeiro Artesão\|Vantagens de Atirador#Armeiro Artesão]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Ardil Disparo Rúnico\|Vantagens de Atirador#Ardil Disparo Rúnico]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Encarando o Perigo\|Vantagens de Atirador#Encarando o Perigo]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Vivendo o Perigo\|Vantagens de Atirador#Vivendo o Perigo]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Duelista\|Vantagens de Atirador#Duelista]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Reflexos Rápidos\|Vantagens de Atirador#Reflexos Rápidos]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Disparo Veloz\|Vantagens de Atirador#Disparo Veloz]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Na Mira\|Vantagens de Atirador#Na Mira]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Maestria de Armas\|Vantagens de Atirador#Maestria de Armas]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Armeiro Artesão\|Vantagens de Atirador#Armeiro Artesão]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Ardil Disparo Rúnico\|Vantagens de Atirador#Ardil Disparo Rúnico]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Encarando o Perigo\|Vantagens de Atirador#Encarando o Perigo]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Vivendo o Perigo\|Vantagens de Atirador#Vivendo o Perigo]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Duelista\|Vantagens de Atirador#Duelista]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Reflexos Rápidos\|Vantagens de Atirador#Reflexos Rápidos]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Disparo Veloz\|Vantagens de Atirador#Disparo Veloz]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Na Mira\|Vantagens de Atirador#Na Mira]]
 
-> Confira todas as Vantagens em: [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador\|Vantagens de Atirador]] 
+> Confira todas as Vantagens em: [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador\|Vantagens de Atirador]] 
 
 ---
 
 ## Vantagens de Veterano
 Escolha dentre as Vantagens abaixo ou selecione uma anterior:
 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Ataque Extra\|Vantagens de Atirador#Ataque Extra]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Batismo da Pólvora\|Vantagens de Atirador#Batismo da Pólvora]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Bravata Superior\|Vantagens de Atirador#Bravata Superior]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Evasão\|Vantagens de Atirador#Evasão]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Cara a Tapa Abusado\|Vantagens de Atirador#Cara a Tapa Abusado]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Cara a Tapa Corajoso\|Vantagens de Atirador#Cara a Tapa Corajoso]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Saque Rápido\|Vantagens de Atirador#Saque Rápido]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Rolagem de Esquiva\|Vantagens de Atirador#Rolagem de Esquiva]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Rolagem de Esquiva\|Vantagens de Atirador#Rolagem de Esquiva]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Olhos Aguçados\|Vantagens de Atirador#Olhos Aguçados]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Mestre das Condições\|Vantagens de Atirador#Mestre das Condições]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Ataque Extra\|Vantagens de Atirador#Ataque Extra]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Batismo da Pólvora\|Vantagens de Atirador#Batismo da Pólvora]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Bravata Superior\|Vantagens de Atirador#Bravata Superior]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Evasão\|Vantagens de Atirador#Evasão]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Cara a Tapa Abusado\|Vantagens de Atirador#Cara a Tapa Abusado]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Cara a Tapa Corajoso\|Vantagens de Atirador#Cara a Tapa Corajoso]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Saque Rápido\|Vantagens de Atirador#Saque Rápido]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Rolagem de Esquiva\|Vantagens de Atirador#Rolagem de Esquiva]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Rolagem de Esquiva\|Vantagens de Atirador#Rolagem de Esquiva]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Olhos Aguçados\|Vantagens de Atirador#Olhos Aguçados]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Mestre das Condições\|Vantagens de Atirador#Mestre das Condições]]
 
-> Confira todas as Vantagens em: [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador\|Vantagens de Atirador]] 
+> Confira todas as Vantagens em: [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador\|Vantagens de Atirador]] 
 
 ---
 
 ## Vantagens de Heroico
 Escolha dentre as Vantagens abaixo ou selecione uma anterior:
 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Ad Astra\|Vantagens de Atirador#Ad Astra]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Talismãs Pessoais\|Vantagens de Atirador#Talismãs Pessoais]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Astra et Umbra\|Vantagens de Atirador#Astra et Umbra]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Tudo ou Nada\|Vantagens de Atirador#Tudo ou Nada]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#De Raspão\|Vantagens de Atirador#De Raspão]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Saque Rápido Aprimorado\|Vantagens de Atirador#Saque Rápido Aprimorado]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Dedo Nervoso\|Vantagens de Atirador#Dedo Nervoso]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Esquiva Acrobática\|Vantagens de Atirador#Esquiva Acrobática]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Mestre da Oportunidade\|Vantagens de Atirador#Mestre da Oportunidade]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Ad Astra\|Vantagens de Atirador#Ad Astra]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Talismãs Pessoais\|Vantagens de Atirador#Talismãs Pessoais]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Astra et Umbra\|Vantagens de Atirador#Astra et Umbra]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Tudo ou Nada\|Vantagens de Atirador#Tudo ou Nada]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#De Raspão\|Vantagens de Atirador#De Raspão]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Saque Rápido Aprimorado\|Vantagens de Atirador#Saque Rápido Aprimorado]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Dedo Nervoso\|Vantagens de Atirador#Dedo Nervoso]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Esquiva Acrobática\|Vantagens de Atirador#Esquiva Acrobática]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Mestre da Oportunidade\|Vantagens de Atirador#Mestre da Oportunidade]]
 
-> Confira todas as Vantagens em: [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador\|Vantagens de Atirador]] 
+> Confira todas as Vantagens em: [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador\|Vantagens de Atirador]] 
 
 ---
 
 ## Vantagens de Lendário
 Escolha dentre as Vantagens abaixo ou selecione uma anterior:
 
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Enganar a Morte\|Vantagens de Atirador#Enganar a Morte]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Costas Quentes\|Vantagens de Atirador#Costas Quentes]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Bravura Indômita\|Vantagens de Atirador#Bravura Indômita]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Eu Sou o Perigo\|Vantagens de Atirador#Eu Sou o Perigo]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Cadáver à Caminho\|Vantagens de Atirador#Cadáver à Caminho]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Diablero\|Vantagens de Atirador#Diablero]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Cangaceiro\|Vantagens de Atirador#Cangaceiro]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Ceifador\|Vantagens de Atirador#Ceifador]]
-- [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador#Cobertura Total\|Vantagens de Atirador#Cobertura Total]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Enganar a Morte\|Vantagens de Atirador#Enganar a Morte]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Costas Quentes\|Vantagens de Atirador#Costas Quentes]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Bravura Indômita\|Vantagens de Atirador#Bravura Indômita]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Eu Sou o Perigo\|Vantagens de Atirador#Eu Sou o Perigo]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Cadáver à Caminho\|Vantagens de Atirador#Cadáver à Caminho]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Diablero\|Vantagens de Atirador#Diablero]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Cangaceiro\|Vantagens de Atirador#Cangaceiro]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Ceifador\|Vantagens de Atirador#Ceifador]]
+- [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador#Cobertura Total\|Vantagens de Atirador#Cobertura Total]]
 
-> Confira todas as Vantagens em: [[Convertendo para SWADE/3. Vantagens e Complicações/Heranças (Vantagens)/Vantagens de Classes/Vantagens de Atirador\|Vantagens de Atirador]] 
+> Confira todas as Vantagens em: [[Convertendo para SWADE/3. Vantagens e Complicações/Vantagens de Classes/Vantagens de Atirador\|Vantagens de Atirador]] 
 
 ---
 

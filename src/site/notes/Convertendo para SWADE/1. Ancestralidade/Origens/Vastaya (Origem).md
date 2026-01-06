@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convertendo-para-swade/1-ancestralidade/origens/vastaya-origem/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convertendo-para-swade/1-ancestralidade/origens/vastaya-origem/"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 ### Traços de Origem dos Vastayas
 
-**Herança**: Você pode escolher uma **Herança de Origem (Vantagem)**, você recebe uma nova **Vantagem de Herança de Origem (Vantagem)** nos estágios Novato, Experiente, Veterano, Heroico e Lendário.
+**Herança**: Você pode escolher uma **Herança de Origem (Vantagem)**, você recebe uma nova **Vantagem de Herança de Origem (Vantagem)** nos estágios Experiente, Veterano, Heroico e Lendário.
 
 **Passado**: Escolha um passado.
 

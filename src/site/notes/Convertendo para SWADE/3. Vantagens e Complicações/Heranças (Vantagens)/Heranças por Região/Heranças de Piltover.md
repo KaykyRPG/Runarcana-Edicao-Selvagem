@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convertendo-para-swade/3-vantagens-e-complicacoes/herancas-vantagens/herancas-por-regiao/herancas-de-piltover/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convertendo-para-swade/3-vantagens-e-complicacoes/herancas-vantagens/herancas-por-regiao/herancas-de-piltover/"}
 ---
 
 

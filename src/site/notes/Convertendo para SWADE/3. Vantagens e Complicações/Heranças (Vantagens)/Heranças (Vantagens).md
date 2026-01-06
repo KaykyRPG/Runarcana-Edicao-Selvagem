@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convertendo-para-swade/3-vantagens-e-complicacoes/herancas-vantagens/herancas-vantagens/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convertendo-para-swade/3-vantagens-e-complicacoes/herancas-vantagens/herancas-vantagens/"}
 ---
 
 
@@ -13,7 +13,7 @@
 
 A capacidade regenerativa dos Trolls é por si só lendária, em você, ela cria efeitos adicionais em sua pele marcada por tantos golpes. Você recebe os seguintes benefícios:
 
-- Você recebe **+1 em testes de Resistência** quando está em um ambiente de Frio Extremo ou Calor Extremo, que aumenta para **+2 no Estágio Experiente** e **+3 no Estágio Veterano**.
+- Você recebe **+1 em testes de Resistência** quando está em um ambiente de Frio Extremo ou Calor Extremo, que aumenta para **+2 no Estágio Experiente** e **+4 no Estágio Veterano**.
     
 - Você recebe **+2 em testes de Furtividade** quando está em um ambiente natural de sua região de origem (selva, neve, deserto).
 
@@ -29,6 +29,13 @@ A capacidade regenerativa dos Trolls é por si só lendária, em você, ela cria
 ## Armamento Gélido
 ## Armas Avançadas
 ## Arsenal Floral
+> [!attention] *Pré-requisito: Antroplantae*
+
+Algumas plantas tem seus espinhos, mas você tem todos eles. Você ganha os seguintes benefícios:
+
+- Você pode **produzir espinhos** resistentes capazes de serem *usados como arma*. Eles causam **For+d4 de dano** e podem ser *arremessadas* (10-20 pés). Você pode *criar um número de espinhos igual ao seu atributo* **Vigor** por *descanso completo*. Espinhos criados dessa forma ficam secos e quebradiços depois de 24 horas, se tornando *inutilizáveis*.
+- Você recebe o **Mistério Flora**.
+
 ## Artífice
 ## Artesão Nazumita
 ## Ataque Vingativo
@@ -57,7 +64,7 @@ Sua cauda é quase uma terceira mão e braço para você. Você ganha os seguint
 
 Como uma ação livre você pode realizar as seguintes ações com sua cauda.
 
-- Pegar ou segurar um objeto que pese até 1 quilo com sua cauda. Se fizer isso enquanto estiver roubando, você ganha bônus de **+2 em jogadas de perícia Ladinagem**.
+- Pegar ou segurar um objeto que pese até 1 quilo com sua cauda. Se fizer isso enquanto estiver roubando, você ganha bônus de **+1 em jogadas de perícia Ladinagem**.
 - Abrir e Fechar portas.
 - Usar ferramentas de chaveiro.
 - Ganhar bônus de **+2 em jogadas de Agarrar**.
@@ -109,6 +116,13 @@ Como uma ação livre você pode realizar as seguintes ações com sua cauda.
 ## Ferromante
 ## Filho da Escuridão
 ## Florescimento Acelerado
+> [!attention] *Pré-requisito: Antroplantae*
+
+A potência floral de seu corpo é extremamente ativa, permitindo feitos impressionantes com seu corpo. Você recebe os seguintes benefícios:
+
+- Durante a luz solar, você **recupera 1 Ferimento** a cada *10 minutos*.
+- Durante um *descanso completo*, você é capaz de **regenerar um membro perdido**.
+
 ## Floricorvus
 ## Fluidez de Ki
 ## Fluência Espiritual
@@ -182,7 +196,6 @@ Você é atento aos detalhes, gosta de fazer um bom trabalho e não deixa nada p
 
 - Você recebe um aumento em uma categoria da perícia: Perceber (d4 -> d6).
 - Você aumenta 1 nível em um de seus ofícios, ignorando seus requisitos. Caso já tenha aumentado o nível de um ofício através de Heranças, você deverá escolher um ofício diferente.
-- Sua perícia Percepção recebe +1 de Bônus.
 
 ## Modularidade
 ## Mordida Infecciosa
@@ -230,6 +243,12 @@ Sua capacidade de perceber o mundo ao seu redor está além do que a maioria pod
 ## Piromaníaco
 ## Potência da Cura
 ## Precisão Vastayesa
+> [!attention] *Pré-requisito: Vastaya* 
+
+Você tem uma mira fora do comum. Você ganha os seguintes benefícios:
+
+- Quando você tiver alguma vantagem em um ataque contra um oponente *(Inimigo sem visão, desprevenido...)*, você rola *dois ataques*, e usa o **maior dentre eles**.
+
 ## Presente Incandescente
 ## Prestidigitador
 ## Princípio Elemental
@@ -247,7 +266,7 @@ Você nasceu em uma região inóspita sem nenhuma vantagem adaptativa, mas conse
 
 - Sempre que sofrer um ataque de frio/gelo, você pode usar uma **Ação Livre** para **reduzir o dano em -2** (ou -4 se estiver estágio Veterano+). Essa habilidade pode ser usada **uma vez por rodada**.
     
-- Você ganha **+1 em Sobrevivência** em testes, se estiver em um **ambiente ártico**.
+- Você ganha **+2 em Sobrevivência**, se estiver em um **ambiente ártico**.
 
 ## Resiliência Adaptativa
 ## Resiliência Dracônica
@@ -274,6 +293,14 @@ Você nasceu em uma região inóspita sem nenhuma vantagem adaptativa, mas conse
 ## Teleporte das Fadas
 ## Temor Noxiano
 ## Tocado pela Mana
+> [!attention] *Pré-requisito: Ixtali*
+
+Nascer e viver em uma região com uma conexão profunda com a mana faz com que você tenha um maior entendimento da mesma, você recebe os seguintes benefícios:
+
+- Você adquire a **perícia Arcanismo**, caso já tenha, *aumenta 1 dado da perícia* (d4 -> d6).
+- Ao escolher essa Herança você se torna capaz de utilizar a mana (PP) com maior precisão. *Duas vezes por dia*, você pode **reduzir o custo de mana de uma magia em -2** (não podendo reduzir para 0), por *descanso completo*.
+- Ao utilizar qualquer recurso que *recupere mana*, você pode **recuperar 1 Ferimento**.
+
 ## Toque Feérico
 ## Treinamento Demaciano
 ## Trespassar

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convertendo-para-swade/0-introducao/guias/guia-origens-e-linhagens-para-swade/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convertendo-para-swade/0-introducao/guias/guia-origens-e-linhagens-para-swade/"}
 ---
 
 

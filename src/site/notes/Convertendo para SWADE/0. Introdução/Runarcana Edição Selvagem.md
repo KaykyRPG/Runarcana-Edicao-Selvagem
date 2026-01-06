@@ -5,9 +5,8 @@
 
 ![L_dourado.png](/img/user/z_Assets/Images/L_dourado.png)
 
-| Créditos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Savage Worlds — Fan Product |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------: |
-| *Este jogo faz referência ao sistema de regras Savage Worlds e Runarcana. Sendo Savage Worlds disponibilizado mundialmente pela Pinnacle Entertainment Group (www.peginc.com) e no Brasil pela RetroPunk Publicações (www.retropunk.net). O Runarcana sendo disponibilizado por Arddhu e sua Equipe do Runarcana ([wiki.runarcana.org](https://wiki.runarcana.org/)). O Savage Worlds e todas as suas logos e marcas associadas são de propriedade da Pinnacle Entertainment Group. Utilizadas com permissão. A Pinnacle e a RetroPunk não fazem nenhuma representação ou garantia quanto à qualidade, viabilidade ou adequação em relação a este produto.* |  ![SW_LOGO_FP_2018.png](/img/user/z_Assets/Images/SW_LOGO_FP_2018.png)   |
+![SW_LOGO_FP_2018.png|right|301](/img/user/z_Assets/Images/SW_LOGO_FP_2018.png)
+>*Este jogo faz referência ao sistema de regras Savage Worlds e Runarcana. Sendo Savage Worlds disponibilizado mundialmente pela Pinnacle Entertainment Group (www.peginc.com) e no Brasil pela RetroPunk Publicações (www.retropunk.net). O Runarcana sendo disponibilizado por Arddhu e sua Equipe do Runarcana ([wiki.runarcana.org](https://wiki.runarcana.org/)). O Savage Worlds e todas as suas logos e marcas associadas são de propriedade da Pinnacle Entertainment Group. Utilizadas com permissão. A Pinnacle e a RetroPunk não fazem nenhuma representação ou garantia quanto à qualidade, viabilidade ou adequação em relação a este produto.*
 
 ---
 
@@ -21,7 +20,7 @@ O Runarcana: Edição Selvagem está em progresso, não está tudo adaptado para
 
 Já deixando claro que o **Runarcana: Edição Selvagem** é um projeto feito por fã, convertendo o sistema e mundo do **Runarcana** e **League of Legends** para o sistema de **Savage Worlds Adventure Edition (SWADE)**, tentando preservar o máximo da essência temática e mecânica do Runarcana, mas respeitando as regras e princípios de agilidade, modularidade e simplicidade do SWADE.
 
-O **Runarcana: Edição Selvagem** é um projeto feito por fã e **não objetivo nenhum ganho financeiro**, caso veja algum terceiro comercializando esse projeto, denuncie! O foco desse projeto é de que jogadores familiarizados com Savage Worlds, joguem um sistema um pouco mais compacto de Runarcana, mas sem perder sua essência.
+O **Runarcana: Edição Selvagem** é um projeto feito por fã com **nenhum objetivo nenhum ganho financeiro**, caso veja algum terceiro comercializando esse projeto, denuncie! O foco desse projeto é de que jogadores familiarizados com Savage Worlds, joguem um sistema um pouco mais compacto de Runarcana, mas sem perder sua essência.
 
 Para jogar **Runarcana: Edição Selvagem**, é necessário o livro de regras de **Savage Worlds: Edição Aventura** para ter acesso as regras bases e conseguir joga-lo normalmente. Caso queira o livro de regras do SWADE em português, compre na [Retropunk](https://loja.retropunk.com.br/), distribuidores oficiais dos livros do SWADE no Brasil.
 
@@ -32,14 +31,15 @@ Para jogar **Runarcana: Edição Selvagem**, é necessário o livro de regras de
 
 ### Guias de Conversão
 
-|   **Tipo**   | Guia                                      | Progresso      |
-| :----------: | ----------------------------------------- | -------------- |
-|  **Começo**  | [[Convertendo para SWADE/0. Introdução/Guias/Guia — Criação de Personagem\|Guia — Criação de Personagem]]          | *Em progresso* |
-| **Origens**  | [[Convertendo para SWADE/0. Introdução/Guias/Guia — Origens e Linhagens para SWADE\|Guia — Origens e Linhagens para SWADE]] | *Completado*   |
-| **Classes**  | [[Convertendo para SWADE/0. Introdução/Guias/Guia — Classes para SWADE\|Guia — Classes para SWADE]]             | *Pendente*     |
-| **Ofícios**  | [[Convertendo para SWADE/0. Introdução/Guias/Guia — Ofícios para SWADE\|Guia — Ofícios para SWADE]]             | *Completado*   |
-|  **Magia**   | [[Convertendo para SWADE/0. Introdução/Guias/Guia — Magia para SWADE\|Guia — Magia para SWADE]]               | *Em progresso* |
-| **Heranças** |                                           | *Pendente*     |
+|    **Tipo**     | Guia                                      | Progresso      |
+| :-------------: | ----------------------------------------- | -------------- |
+|   **Começo**    | [[Convertendo para SWADE/0. Introdução/Guias/Guia — Criação de Personagem\|Guia — Criação de Personagem]]          | *Em progresso* |
+|   **Origens**   | [[Convertendo para SWADE/0. Introdução/Guias/Guia — Origens e Linhagens para SWADE\|Guia — Origens e Linhagens para SWADE]] | *Completado*   |
+|   **Classes**   | [[Convertendo para SWADE/0. Introdução/Guias/Guia — Classes para SWADE\|Guia — Classes para SWADE]]             | *Pendente*     |
+|   **Ofícios**   | [[Convertendo para SWADE/0. Introdução/Guias/Guia — Ofícios para SWADE\|Guia — Ofícios para SWADE]]             | *Completado*   |
+|    **Magia**    | [[Convertendo para SWADE/0. Introdução/Guias/Guia — Magia para SWADE\|Guia — Magia para SWADE]]               | *Em progresso* |
+|  **Heranças**   |                                           | *Pendente*     |
+| **Tecmaturgia** | [[Convertendo para SWADE/0. Introdução/Guias/Guia — Tecmaturgia\|Guia — Tecmaturgia]]                    | *Pendente*     |
 
 ### Raças
 
@@ -102,6 +102,13 @@ A conversão deve preservar **a fantasia e identidade única de Runarcana**, mas
 
 ---
 
+# Removendo e adicionando
+
+No SWADE, existem várias regras e mecânicas, onde não estaremos utilizando ou focando no *Runarcana: Edição Selvagem* para não dificultar a conversão do sistema do Runarcana para o SWADE. Aqui, estarei listando algumas delas:
+
+- Diversos Antecedentes Arcanos para invocar magias diferentes (Removido).
+- Uma única perícia de Antecedente Arcano para invocar magias do Runarcana (Adicionado).
+
 # Observações Gerais
 - **Runarcana: Edição Selvagem** não deve ser tradução literal, mas uma **adaptação filosófica**. 
 - Cada elemento de Runarcana deve ser reinterpretado dentro das mecânicas já existentes do SWADE.
@@ -111,4 +118,4 @@ A conversão deve preservar **a fantasia e identidade única de Runarcana**, mas
 
 ---
 
-© 2025 Kayky Rodrigues — Runarcana: Edição Selvagem
+2025 Kayky Rodrigues — Runarcana: Edição Selvagem

@@ -17,25 +17,27 @@ O conceito inicial, é onde o jogador e o mestre entendem seu objetivo na histó
 
 ### Criando o conceito
 
-Existem alguns pontos chaves interessantes para pensar no que queremos criar. Cada um vai ter seu jeito próprio de pensar no conceito do personagem, mas gosto de separar em perguntas a serem respondidas, não sendo necessário responder todas, mas isso ajuda a entender seu personagem:
+Existem alguns pontos chaves interessantes para pensar no que queremos criar. Cada um vai ter seu jeito próprio de pensar no conceito do personagem, mas gosto de separar em perguntas a serem respondidas:
 
-***Perguntas:***
+***Perguntas Rápidas:***
 
-|                | Passado                               | Motivações                                             | Atual                                                       |
-| -------------- | ------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------- |
-| **Pergunta**   | **Qual sua região cultural?**         | **O que você valoriza mais?**                          | **Quem você tem?**                                          |
-| ***Exemplos*** | *Ionia, Noxus, Piltover, Zaun...*     | Dinheiro, Honestidade, Poder...                        | Um amigo, um Desejo, uma Carta, Ninguém...                  |
-| **Pergunta**   | **Ambiente que você cresceu?**        | **Como chegou aqui?**                                  | **Qual seu objetivo?**                                      |
-| ***Exemplos*** | Casa Luxuosa, Rua, Zona de Combate... | *Perdeu tudo, vagou à deriva, pagando pelos crimes...* | *Descobrir quem é, se vingar, encontrar um amor, morrer...* |
-| **Pergunta**   | **Quem era sua família?**             | **O que te move?**                                     | **Qual seu problema?**                                      |
-| ***Exemplos*** | *Soldados de Noxus, Mercadores...*    | *Família, Amor, Ódio, Vingança, Ganância...*           | Um medo paralisante, seu Passado, um Inimigo...             |
-| **Pergunta**   | **O que você fazia?**                 | **O que você faz?**                                    |                                                             |
-| ***Exemplos*** | *Soldado, Ladrão, Cantor...*          | *Lutador, Mecânico, Vendedor...*                       |                                                             |
-
+|                | Passado                               | Motivações                                   | Atual                                                       |
+| -------------- | ------------------------------------- | -------------------------------------------- | ----------------------------------------------------------- |
+| **Pergunta**   | **Qual sua região cultural?**         | **O que aconteceu?**                         | **Quem você tem?**                                          |
+| ***Exemplos*** | *Ionia, Noxus, Piltover, Zaun...*     | *Perdeu tudo, vagou à deriva, foi preso...*  | Um amigo, um Desejo, uma Carta, Ninguém...                  |
+| **Pergunta**   | **Ambiente que você cresceu?**        | **O que te move?**                           | **Qual seu objetivo?**                                      |
+| ***Exemplos*** | Casa Luxuosa, Rua, Zona de Combate... | *Família, Amor, Ódio, Vingança, Ganância...* | *Descobrir quem é, se vingar, encontrar um amor, morrer...* |
+| **Pergunta**   | **Quem era sua família?**             | **O que você valoriza mais?**                | **Qual seu problema?**                                      |
+| ***Exemplos*** | *Soldados de Noxus, Mercadores...*    | Dinheiro, Honestidade, Poder...              | Um medo paralisante, seu Passado, um Inimigo...             |
+| **Pergunta**   | **O que você fazia?**                 |                                              | **O que você faz?**                                         |
+| ***Exemplos*** | *Soldado, Ladrão, Cantor...*          |                                              | *Lutador, Mecânico, Vendedor...*                            |
+Caso você queira detalhar mais ou está sem ideias para as perguntas acima, veja [[Convertendo para SWADE/0. Introdução/Guias/Guia — Construindo Sua Vida\|Guia — Construindo Sua Vida]].
 
 ### Criando o personagem
 
-Escolhi Akires, uma lutadora de artes marciais que utiliza apenas os punhos em combate, ganhando a vida em lutas de rua, sem um objetivo claro de vida, apenas indo onde o vento levar.
+Escolhi Akires, uma humana, lutadora de artes marciais que utiliza apenas os punhos em combate, ganhando a vida em lutas de rua, sem um objetivo claro de vida, apenas indo onde o vento levar. Nascida em Shurima, sendo criada em uma família adotiva de nômades, viajou entre diversas cidades na sua infância, aprendendo diversas culturas e criaturas.
+
+
 
 ## Escolha uma Ancestralidade e uma Região
 

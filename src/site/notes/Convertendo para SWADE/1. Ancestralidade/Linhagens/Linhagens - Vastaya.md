@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convertendo-para-swade/1-ancestralidade/linhagens/linhagens-vastaya/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convertendo-para-swade/1-ancestralidade/linhagens/linhagens-vastaya/"}
 ---
 
 
@@ -9,6 +9,7 @@
 > *Embora sejam plurais em suas características, os Vastaya acabam por se organizar em tribos que, dada a localização acabam por partilhar de característica similares.*
 
 ## — Oovi-Kat
+![banner-linhagem-oovi-kat.jpg](/img/user/z_Assets/Images/Origens/banner-linhagem-oovi-kat.jpg)
 
 Os Oovi-kat são uma tribo desconhecida pelos humanos mas de conhecimento comum pelas outras tribos Vastaya, tem a reputação de ser atribo mais próxima do ancestral Vastaya, os Vastayashai’rei.
 

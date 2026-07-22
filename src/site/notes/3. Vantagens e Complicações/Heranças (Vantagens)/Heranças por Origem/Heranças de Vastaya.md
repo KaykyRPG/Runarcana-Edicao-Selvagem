@@ -1,0 +1,38 @@
+---
+{"dg-publish":true,"permalink":"/3-vantagens-e-complicacoes/herancas-vantagens/herancas-por-origem/herancas-de-vastaya/","tags":["vantagem","herança"],"dg-note-properties":{"tags":["vantagem","herança"]}}
+---
+
+
+- Afinidade Onírica
+- [[3. Vantagens e Complicações/Heranças (Vantagens)/Heranças (Vantagens)#Cauda Preênsil\|Heranças (Vantagens)#Cauda Preênsil]] 
+- Centelha Mágica Vesani
+- Conjurador Marai
+- Conjurador Suporte
+- Contemplação Estelar
+- Controle de Plumagadagas
+- Cura Ottrani
+- Dançarino
+- Devorador de Conhecimento
+- Encanto Vulpino
+- Estilo do Mar
+- Ferocidade do Predador
+- Força Ottrani
+- Forma de Sho’Ma
+- Graça da Raposa
+- Graça do Felino
+- Guardião de Essência
+- Habilidade do Impulso
+- Habilidade Símia
+- Magia Inata
+- Nascido em Kumungu
+- [[3. Vantagens e Complicações/Heranças (Vantagens)/Heranças (Vantagens)#Perceptivo\|Heranças (Vantagens)#Perceptivo]] 
+- Potência da Cura
+- [[3. Vantagens e Complicações/Heranças (Vantagens)/Heranças (Vantagens)#Precisão Vastayesa\|Heranças (Vantagens)#Precisão Vastayesa]] 
+- Procurador da Verdade
+- Proficiência Onírica
+- Protetor Natural
+- Salva-IIP-guarda
+- Variante Colosso
+- Variante Meio-Vastaya
+- Variante Progressão Tecnológica
+- Variante Ressurgido
